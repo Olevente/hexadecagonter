@@ -1,0 +1,36 @@
+/*
+* File: hexadecagonter.css
+* Author: Orosz Levente
+* Copyright: 2022, Orosz Levente
+* Group: Szoft-II-N
+* Date: 2022-10-27
+* Github: https://github.com/Olevente/
+* Licenc: GNU GPL
+*/                                                                                                      
+
+#container {
+    background-color: blueviolet;
+    margin: 10%;
+    padding: 20px;
+}
+
+ #nevjegy {
+    background-color: grey;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 600px;
+    position: fixed;
+    top: 125px;
+    right: -100px;
+    transform: rotate(30deg);
+}
+
+label {
+    display: inline-block;
+    width: 90px;
+}
+
+input {
+    margin-top: 5px;
+}
